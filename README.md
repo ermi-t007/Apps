@@ -2,6 +2,6 @@
 
 Starter scaffold for the YouTube Clipper Android app (Expo + React Native) and Python backend (FastAPI + Celery).
 
-This repository was created by Copilot scaffolding. Branch for development: `scaffold/yt-clipper-mvp`.
+This repo contains a minimal scaffold to get the MVP running locally using Docker Compose.
 
-See /backend and /frontend directories for more details.
+See backend/ and frontend/ folders for implementation.
